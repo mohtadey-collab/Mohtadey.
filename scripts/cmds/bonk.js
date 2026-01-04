@@ -7,7 +7,7 @@ module.exports = {
   config: {
     name: "bonk",
     aliases: ["b"],
-    author: "Aphelion | rewrite by Muzan",
+    author: "Meheraz | rewrite by Muzan",
     shortDescription: "Bonk someone",
     longDescription: "Make a BONK meme using two avatars",
     category: "fun",
