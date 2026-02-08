@@ -13,16 +13,16 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "GoatBot",
-  "prefix": "!",
+  "nickNameBot": "Mohtadey_Bot",
+  "prefix": ".",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557290571000",
-    "100087625774227",
-    "61584035788710"
+    "100004142712202",
+    "100004142712202",
+    "100004142712202"
   ],
   "whiteListMode": {
     "enable": false,
